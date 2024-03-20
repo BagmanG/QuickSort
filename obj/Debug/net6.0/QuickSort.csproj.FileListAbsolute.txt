@@ -1,0 +1,14 @@
+D:\Projects\Algorithms\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.exe
+D:\Projects\Algorithms\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+D:\Projects\Algorithms\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+D:\Projects\Algorithms\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.dll
+D:\Projects\Algorithms\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.dll
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+D:\Projects\Algorithms\QuickSort\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll
